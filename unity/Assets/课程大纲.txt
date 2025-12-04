@@ -1,0 +1,16 @@
+   一. 模型和资源导入
+      1. 金币，吹风机等3d模型导入
+      2. 音乐
+      3. 图片与材质（木头材质，墙材质，法线贴图）
+      4. 天空盒（商店资源）
+https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+      5. 商店模型资产导入
+https://assetstore.unity.com/packages/3d/environments/aa-3d-low-poly-nature-pack-227820
+    二. 资产放入到合并，预制体置入
+    三. 材质和天空盒
+      1. 材质创建
+      2. 天空盒
+      3. 材质添加
+      4. 光照设置
+    四. 音效音乐添加
+    五. 简单动画添加
